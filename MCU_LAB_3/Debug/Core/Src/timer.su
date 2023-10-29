@@ -1,0 +1,6 @@
+timer.c:33:6:setTimerTimeOut	16	static
+timer.c:38:6:setTimerTrafficHorizontal	16	static
+timer.c:43:6:setTimerTrafficVertical	16	static
+timer.c:48:6:setTimerBlink	16	static
+timer.c:53:6:setTimerLED7	16	static
+timer.c:58:6:timer_run	4	static

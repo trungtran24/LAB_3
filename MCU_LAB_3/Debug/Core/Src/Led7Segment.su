@@ -1,0 +1,4 @@
+Led7Segment.c:36:6:display7SEG	24	static
+Led7Segment.c:48:6:update_LED7_buffer_vertical	16	static
+Led7Segment.c:52:6:update_LED7_buffer_horizontal	16	static
+Led7Segment.c:57:6:update_7seg_led	8	static
