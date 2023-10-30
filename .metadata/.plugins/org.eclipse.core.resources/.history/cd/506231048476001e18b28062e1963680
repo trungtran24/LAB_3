@@ -1,3 +1,10 @@
+/*
+ * Led7Segment.c
+ *
+ *  Created on: Jan 10, 2023
+ *      Author: 84915
+ */
+
 #include "timer.h"
 #include "main.h"
 
